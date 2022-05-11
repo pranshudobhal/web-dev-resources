@@ -28,3 +28,20 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | [EggGradients](https://www.eggradients.com/)                                  | Ready to use gradient background colors               |
 | [Gradientos](https://www.gradientos.app/)                                  | Find and test gradients easily. Pick colors and see the gradient live on a demo website on some common UI elements               |
 | [Gradient Generator](https://colordesigner.io/gradient-generator)           | A free gradient generator               |
+
+## Icons
+
+| Website                                                                | Description                                                                  |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [Heroicons](https://heroicons.dev)                                     | A set of free MIT-licensed high-quality SVG icons for UI development     |
+| [Heroicons](https://heroicons.com)                                     | Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS                         |
+| [Iconic](https://iconic.app)                                           | Free, “do wtf you want with” pixel-perfect icons                                               |
+| [The noun project icons](https://thenounproject.com/browse/icons/term/free/)                 | A diverse collection of icons                |
+| [Iconfinder](https://www.iconfinder.com)                                | A marketplace for icons, illustrations and 3D illustrations in SVG, AI, and PNG format               |
+| [Icon icons](https://icon-icons.com)                              | Free icons for your project, find the perfect icon you need in our amazing collection, available in SVG, PNG, ICO or ICNS |
+| [Iconmonstr](https://iconmonstr.com)                                | Free simple icons for your next project               |
+| [Icons8](https://icons8.com)                            | Icons, illustrations, photos, music, and design tools               |
+| [lordicon](https://lordicon.com)                | A powerful library of carefully crafted animated icons, ready to use in digital products, presentations, or videos!               |
+| [Google Icons](https://fonts.google.com/icons)                             | A collection of beautiful icons from Google  |
+| [Icones](https://icones.netlify.app)           | A collection of beautiful icons              |
+| [React Icons](https://react-icons.github.io/react-icons/)            | Include popular icons in your React projects easily with react-icons               |
