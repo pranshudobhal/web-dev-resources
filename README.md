@@ -45,3 +45,19 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | [Google Icons](https://fonts.google.com/icons)                             | A collection of beautiful icons from Google  |
 | [Icones](https://icones.netlify.app)           | A collection of beautiful icons              |
 | [React Icons](https://react-icons.github.io/react-icons/)            | Include popular icons in your React projects easily with react-icons               |
+
+## Tailwind Components
+
+| Website                                                                | Description                                                                  |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [Tailblocks](https://tailblocks.cc)                                    | Ready-to-use Tailwind CSS blocks     |
+| [Tailwind Components](https://tailwindcomponents.com)                  | A free repository for community components using Tailwind CSS                         |
+| [MerakiUI](https://merakiui.com)                                       | Tailwind CSS Components That Support RTL Languages & Fully Responsive Based On Flexbox & CSS Grid With Elegant Dark Mode                                               |
+| [Tail Kit](https://www.tailwind-kit.com)                 | Tail-kit gives you access to over 250 free components and free templates, based on Tailwind CSS 2.0. It's all compatible with React, VueJS and Angular application                |
+| [Tailwind Toolbox](https://www.tailwindtoolbox.com)                                | Free Tailwind CSS Templates, Components and Resources               |
+| [Tailwind UI Kit](https://tailwinduikit.com)   | Build captivating experiences with accessible, fully responsive, drop-in-ready Tailwind CSS components and fast track your workflow |
+| [Mamba UI](https://mambaui.com)                                | A free, open-source collection of UI components and templates based on Tailwind CSS               |
+| [Kutty](https://kutty.netlify.app)                            | A tailwind plugin consisting of accessible and reusable components for building web applications              |
+| [Daisy UI](https://daisyui.com)                | The most popular, free and open-source Tailwind CSS component library               |
+| [Gust UI](https://www.gustui.com)                             | A Free Tailwind UI kit for visionary applications  |
+| [Wickedblocks](https://wickedblocks.dev)           | A free collection of Tailwind blocks & components              |
