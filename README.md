@@ -76,3 +76,18 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | [The noun project photos](https://thenounproject.com/browse/photos/term/free/)                            | A diverse collection of stock photos              |
 | [Illlustrations](https://illlustrations.co)                | Open source illustrations kit               |
 | [Storyset](https://storyset.com/)                             | Awesome free customizable illustrations for your next project  |
+
+## Design Inspirations
+
+| Website                                                                | Description                                                                  |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [Envato](https://elements.envato.com)                                    | Unilimted resource to graphic designs     |
+| [Dribble](https://dribbble.com)                  | A collection of beautiful design by top creators                         |
+| [CollectUI](https://collectui.com)                                       | Daily inspiration collected from daily ui archive and beyond                                               |
+| [Landing Folio](https://landingfolio.com)                 | The Best Landing Page Design Inspiration, Templates and More               |
+| [Openby.design](https://openby.design)                 | Custom crafted free UI design resources, for personal and commercial projects               |
+| [Awwwards](https://www.awwwards.com)                 | Best Web Design trends               |
+| [Behance](https://www.behance.net)                 | One of the world's largest creative network for showcasing and discovering creative work               |
+| [Mobbin](https://mobbin.design/browse/ios/apps)                 |  Save hours of UI & UX research with our library of 50,000+ fully searchable mobile app screenshots              |
+| [Screenlane](https://screenlane.com)                 |  Web & mobile UI design inspirations              |
+| [Scrnshts](https://scrnshts.club)                 |  A hand-picked collection of the finest app store design screenshots              |
