@@ -61,3 +61,18 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | [Daisy UI](https://daisyui.com)                | The most popular, free and open-source Tailwind CSS component library               |
 | [Gust UI](https://www.gustui.com)                             | A Free Tailwind UI kit for visionary applications  |
 | [Wickedblocks](https://wickedblocks.dev)           | A free collection of Tailwind blocks & components              |
+
+## Images and Illustrations
+
+| Website                                                                | Description                                                                  |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [Pexels](https://www.pexels.com)                                    | The best free stock photos, royalty free images & videos shared by creators     |
+| [Freepik](https://www.freepik.com)                  | Free Vectors, Stock Photos & PSD Downloads                         |
+| [Pixabay](https://pixabay.com)                                       | Stunning free images & royalty free stock                                               |
+| [Unsplash](https://unsplash.com)                 | Beautiful free images and pictures                |
+| [Humaaans](https://www.humaaans.com)                                | Mix-&-match illustrations of people with a design library               |
+| [Manypixels](https://www.manypixels.co/gallery)   | 2,500+ royalty-free illustrations to power up your designs |
+| [Undraw](https://undraw.co)                                | Open-source illustrations for any idea you can imagine and create               |
+| [The noun project photos](https://thenounproject.com/browse/photos/term/free/)                            | A diverse collection of stock photos              |
+| [Illlustrations](https://illlustrations.co)                | Open source illustrations kit               |
+| [Storyset](https://storyset.com/)                             | Awesome free customizable illustrations for your next project  |
