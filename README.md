@@ -76,6 +76,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | [The noun project photos](https://thenounproject.com/browse/photos/term/free/)                            | A diverse collection of stock photos              |
 | [Illlustrations](https://illlustrations.co)                | Open source illustrations kit               |
 | [Storyset](https://storyset.com/)                             | Awesome free customizable illustrations for your next project  |
+| [Illustrations Figma](https://www.artify.co/illustrations-figma)   | More than 5000 vector illustrations you can use inside Figma. All the figma illustrations are in SVG & PNG formats and includes styles like flat, lined, abstract and more.  |
 
 ## Design Inspirations
 
